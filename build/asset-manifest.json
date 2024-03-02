@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/audio-pill/static/css/main.85769e3c.css",
+    "main.js": "/audio-pill/static/js/main.09d84e93.js",
+    "static/js/453.e1a2a0c9.chunk.js": "/audio-pill/static/js/453.e1a2a0c9.chunk.js",
+    "index.html": "/audio-pill/index.html",
+    "main.85769e3c.css.map": "/audio-pill/static/css/main.85769e3c.css.map",
+    "main.09d84e93.js.map": "/audio-pill/static/js/main.09d84e93.js.map",
+    "453.e1a2a0c9.chunk.js.map": "/audio-pill/static/js/453.e1a2a0c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85769e3c.css",
+    "static/js/main.09d84e93.js"
+  ]
+}
